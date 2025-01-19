@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'BookListAPI',  # Add this line
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
